@@ -3524,7 +3524,7 @@
 				width: 100%;
 				z-index: 10001;
 			}
-
+/*
 				#navButton .toggle {
 					text-decoration: none;
 					height: 100%;
@@ -3564,7 +3564,7 @@
 						top: 0.5em;
 						width: 3.5em;
 					}
-
+*/
 			#navPanel {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
